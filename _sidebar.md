@@ -1,0 +1,10 @@
+- Getting Started
+    - [Introduction](/introduction/intro)
+    - [First Steps](/introduction/prep)
+- Important Information
+    - [Communication](important_info/slack)
+    - 
+- Conferences
+- Funding / Awards
+- Resources
+    - [Contact Information](resources/contactinfo)
