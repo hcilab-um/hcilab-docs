@@ -4,7 +4,7 @@ Welcome to the HCI-Lab! Here you will find a compilation of resources to help yo
 
 ## Using the Guide
 
-The sidebar is categorized and easy to follow, you can also search for specific items to see if it's in the guide!
+All information is accessible through the side bar as well as the search bar. If you are looking for something specific, try searching for it, if you can't find it, someone in the lab will be more than happy to help!
 
 ## Quick Links
 

@@ -4,6 +4,13 @@
 
 It is important to communicate your ultimate career goal and aspirations with Dr. Irani as early as possible. This could be continuing on with a PhD, a post-doc, aspiring towards an academic career, working in high-tech, or working in any field of your personal passion. Identifying and communicating that goal will allow you and your supervisor to work collaboratively towards that direction.
 
+## Quick Links
+* [CS Contact List](resources/contactinfo)
+* [Card Access Approval Form](https://umanitoba.ca/campus/physical_plant/media/Card_Access_Approval_Form.pdf)
+* Popular Banks
+    * [Royal Bank of Canada](rbc.com)
+    * [CIBC](cibc.ca)
+
 ## Beginning of Program
 
 At the beginning of your program, there are a few things you may want to do right away. This section will provide a list of tasks that you may want to do:
@@ -13,6 +20,15 @@ At the beginning of your program, there are a few things you may want to do righ
 
 
 - [ ] Make sure that you are enrolled in both the University and the Computer Science Department
+
+
+### Winnipeg
+
+
+- [ ] Get a Canadian phone plan (OPTIONAL)
+
+
+- [ ] Set-up a bank account if you are being funded. Recommended banks: [Royal Bank of Canada](rbc.com), [CIBC](cibc.ca). (RBC is international friendly, not sure about CIBC).
 
 
 ### Registration
@@ -25,11 +41,6 @@ At the beginning of your program, there are a few things you may want to do righ
 
 - [ ] Obtain your bus pass at `Answers` in the University Centre. A student card is required, and the UPASS is part of your tuition.
 
-
-- [ ] Get a Canadian phone plan (OPTIONAL)
-
-
-- [ ] Set-up a bank account if you are being funded. Recommended banks: [Royal Bank of Canada](rbc.com), [CIBC](cibc.ca). (RBC is international friendly, not sure about CIBC).
 
 ### Workspace Setup
 

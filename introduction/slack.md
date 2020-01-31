@@ -4,6 +4,10 @@
 
 In this lab we use a team communication application called '[Slack](https://slack.com)'.
 
+## Quick Links
+
+* [Slack](https://slack.com)
+
 ## Setup
 
 To get started on Slack you can download the desktop and/or the mobile application and then ask Yumi for an invitation to the Slack group.
