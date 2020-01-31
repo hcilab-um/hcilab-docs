@@ -15,6 +15,15 @@ At the beginning of your program, there are a few things you may want to do righ
 - [ ] Make sure that you are enrolled in both the University and the Computer Science Department
 
 
+### Winnipeg
+
+
+- [ ] Get a Canadian phone plan (OPTIONAL)
+
+
+- [ ] Set-up a bank account if you are being funded. Recommended banks: [Royal Bank of Canada](rbc.com), [CIBC](cibc.ca). (RBC is international friendly, not sure about CIBC).
+
+
 ### Registration
 
 - [ ] Register for your courses! Make sure to check the deadline for this as some courses become full really quickly, you should register for your selected courses as soon as possible. (Talk to Dr.Irani and Lynne)
@@ -25,11 +34,6 @@ At the beginning of your program, there are a few things you may want to do righ
 
 - [ ] Obtain your bus pass at `Answers` in the University Centre. A student card is required, and the UPASS is part of your tuition.
 
-
-- [ ] Get a Canadian phone plan (OPTIONAL)
-
-
-- [ ] Set-up a bank account if you are being funded. Recommended banks: [Royal Bank of Canada](rbc.com), [CIBC](cibc.ca). (RBC is international friendly, not sure about CIBC).
 
 ### Workspace Setup
 

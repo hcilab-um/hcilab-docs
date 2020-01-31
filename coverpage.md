@@ -3,4 +3,4 @@
 > A compilation of resources for students
 
 [Get Started](introduction/intro)
-[Contribute](/)
+[Contribute](https://github.com/hcilab-um/hcilab-docs)

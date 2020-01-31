@@ -1,10 +1,14 @@
 - Getting Started
-    - [Introduction](/introduction/intro)
-    - [First Steps](/introduction/prep)
+    - [Introduction](introduction/intro)
+    - [First Steps](introduction/prep)
+    - [Communication](introduction/slack)
+    - [Expectations!](introduction/expectations)
+    - [Courses](introduction/courses)
 - Important Information
-    - [Communication](important_info/slack)
-    - 
-- Conferences
+    - [Lab Calendar](important_info/labcalendar)
+    - [Lab Hardware](important_info/hardware)
+- Research
+    - []
 - Funding / Awards
 - Resources
     - [Contact Information](resources/contactinfo)
