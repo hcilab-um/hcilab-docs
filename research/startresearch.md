@@ -30,3 +30,7 @@ javascript:void(location.href=%22http://proxycheck.lib.umanitoba.ca/libraries/on
 ```
 
 ie. ![Bookmark Chrome Example](../assets/imgs/bookmarkex.png)
+
+## Where to next?
+
+Once you've gotten the hang of reviewing literature and a project to start working on, head on over to the [Thesis Program](research/thesis) for information on how to get started on some tasks that you would need to get done to fully complete your program.
