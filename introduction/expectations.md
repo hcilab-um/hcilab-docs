@@ -17,6 +17,10 @@ You are expected to do the following each day:
 
 * Make sure to update Dr. Irani with regards to your progress at the end of each week.
 
+## Annual Expectations
+
+* One [progress report](https://umanitoba.ca/faculties/graduate_studies/media/interactive_progress_report.pdf) each year is required prior to registration. ach Progress Report must be completed by the advisor (and if present, the co-advisor and advisory committee) and the student, and provided to the Graduate Associate Head for approval at least two weeks before the Faculty of Graduate Studies deadline. 
+
 ## Publication Standards
 
 * As a MSc student, you will need to publish 3 papers before you complete your program
@@ -24,7 +28,7 @@ You are expected to do the following each day:
 * As a postdoctoral fellow, will need to publish 6 papers/year
 * Above all, seek quality over quantity. Publications at ACM CHI, ACM UIST, IEEE Infovis, IEEE TVCG, UbiComp are considered top tier venues for our lab.
 
-# General Tasks
+## General Tasks
 
 These tasks are generally one-time tasks but should be done through out your career here at the lab.
 
@@ -33,3 +37,6 @@ These tasks are generally one-time tasks but should be done through out your car
 * **Complete CORE Ethics training** (More information can be found in the Research section)
 * Upload a short bio to the [HCI Lab website](hci.cs.umanitoba.ca) (Talk with Walid)
 * Prepare to present on a paper, previous research, or current research every few weeks!
+
+## Quick Links
+* [Progress Report](https://umanitoba.ca/faculties/graduate_studies/media/interactive_progress_report.pdf) 

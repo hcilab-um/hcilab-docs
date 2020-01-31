@@ -8,7 +8,15 @@
     - [Lab Calendar](important_info/labcalendar)
     - [Lab Hardware](important_info/hardware)
 - Research
-    - []
+    - [Getting Started](research/startresearch)
+    - [Ethics](research/ethics)
+    - [Study Design](research/studydesign)
+    - [Writing and Presenting](research/writing_presenting)
+    - [Conferences & Publications](research/publications)
+    - [Thesis](research/thesis)
 - Funding / Awards
+    - [Conference Grants]()
+    - [Scholarships & Awards]()
 - Resources
     - [Contact Information](resources/contactinfo)
+    - [Lab Presentations](resources/presentations)
