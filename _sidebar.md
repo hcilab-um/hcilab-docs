@@ -1,22 +1,22 @@
-- Getting Started
+- **Getting Started**
     - [Introduction](introduction/intro)
     - [First Steps](introduction/prep)
     - [Communication](introduction/slack)
     - [Expectations!](introduction/expectations)
     - [Courses](introduction/courses)
-- Important Information
+- **Important Information**
     - [Lab Calendar](important_info/labcalendar)
     - [Lab Hardware](important_info/hardware)
-- Research
+- **Research**
     - [Getting Started](research/startresearch)
     - [Thesis Program](research/thesis)
     - [Ethics](research/ethics)
     - [Study Design](research/studydesign)
     - [Writing and Presenting](research/writing_presenting)
     - [Conferences & Publications](research/publications)
-- Funding / Awards
+- **Funding / Awards**
     - [Conference Grants](funding_awards/conferencegrants)
     - [Scholarships & Awards](funding_awards/scholarships)
-- Resources
+- **Resources**
     - [Contact Information](resources/contactinfo)
     - [Lab Presentations](resources/presentations)
