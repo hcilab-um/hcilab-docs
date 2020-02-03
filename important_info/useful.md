@@ -35,11 +35,13 @@ On top of the responsibilities outlined in [the Responsibilities section of the 
 
 ## Lab Roles
 
+There are still open roles available. Please discuss this with Yumi!
+
 | Name    | Lab Role                              |
 |---------|---------------------------------------|
 | Pourang | Lab Supervisor                        |
 | Yumi    | Lab Manager/Senior Research Associate |
-| Roya    | Lab Meetings Coordinator              |s
+| Roya    | Lab Meetings Coordinator              |
 | Walid   | Website Manager                       |
 | Bradley | Social/Sports Coordinator             |
 | Ali     | Social/Sports Coordinator             |
