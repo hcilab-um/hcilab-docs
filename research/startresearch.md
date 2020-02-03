@@ -33,4 +33,21 @@ ie. ![Bookmark Chrome Example](../assets/imgs/bookmarkex.png)
 
 ## Where to next?
 
-Once you've gotten the hang of reviewing literature and a project to start working on, head on over to the [Thesis Program](research/thesis) for information on how to get started on some tasks that you would need to get done to fully complete your program.
+Once you've gotten the hang of reviewing literature and a project to start working on there are a few required tasks you are required to do prior to designing and running studies for your project.
+
+### Thesis
+Head on over to the [Thesis Program page](research/thesis) for information on how to get started on some tasks that you would need to get done to fully complete your program.
+
+### Ethics
+**YOU CANNOT RUN EXPERIMENTS WITHOUT ETHICS!** The [Ethics](research/ethics) section outlines the requirements in order to design and run studies!
+
+### Study Design
+The [Study Design](research/studydesign) section guides you through the inital steps of study design as well as has some resources on how to design a study.
+
+### Writing and Presenting
+The [Writing and Presenting](research/writing_presenting) section contains resources and tips on writing and presenting research, where to find help, and example presentations.
+
+### Conferences and Publications
+The [Conferences and Publications](research/publication) section outlines tips on searching for conferences and where to look for dates.
+
+
