@@ -13,6 +13,7 @@
     - [Thesis Program](research/thesis)
     - [Ethics](research/ethics)
     - [Study Design](research/studydesign)
+    - [Running a Study](research/runningstudy)
     - [Writing and Presenting](research/writing_presenting)
     - [Conferences & Publications](research/publications)
 - **Funding / Awards**

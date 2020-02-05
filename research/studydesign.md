@@ -95,6 +95,15 @@ While implementing or after implementining your study application, create a stud
 
 Once your design, implementation, and study is at a state where you can start testing your idea you are required to run your study with some lab members. Pilot studies help you determine things like how long your study will take, what needs to be changed, where your application fails, amongst many other things. Furthermore, it will help you practice your script and give you a chance analyze the data before running it with general participants. **IT IS IMPORTANT TO RUN AN ANALYSIS OF THE PILOT STUDY TO SEE IF YOU'RE MISSING ANYTHING!** This will also allow you to see look at any potential trends when you run the actual experiment.
 
+Things to look for:
+* Is your application capturing the correct data and variables?
+* Was there any confusion in the instructions?
+* Did the participant complete the study properly?
+* When cleaning the pilot study data, were there any problems such as missing values? why?
+* Were there any malfunctions?
+
+Take as many notes as you can and fix any issues prior to conducting your study.
+
 ## What's Next?
 
 While you are running your pilot study it's important to already have documents in place to apply for [ethics approval](research/ethics). Once you have ethics approval, you can officially [run your study](research/runningstudy). 
