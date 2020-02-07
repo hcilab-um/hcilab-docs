@@ -13,7 +13,7 @@ You will have to publish a few papers during your program. When you publish a pa
 
 ### UMGSA
 
-Follow the instructions in the [> instructions document <] w(http://www.umgsa.org/wp-content/uploads/2019/04/Conference-Grant-Application-Instructions-April-2019.pdf) carefully or your application will be rejected.
+Follow the instructions in the [> instructions document <](http://www.umgsa.org/wp-content/uploads/2019/04/Conference-Grant-Application-Instructions-April-2019.pdf) carefully or your application will be rejected.
 
 ### Computer Science
 
