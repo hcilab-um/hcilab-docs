@@ -10,8 +10,17 @@ The research of this lab is expected to be the highest quality and reported effe
 ## Conferences
 
 There are many conferences that are available for you to submit your research to. In this lab, we work towards conferences such as CHI, UbiComp, UIST, and Infovis.
-For a list of conferences, please refer to the calendar.
+For an up-to-date list of conference deadlines, please refer to the calendar.
+
+### List of Notable Conferences
+* [CHI: Computer-Human Interaction](https://dl.acm.org/conference/chi)
+* [SIGGRAPH: International Conference on Computer Graphics and Interactive Techniques](https://dl.acm.org/conference/siggraph)
+* [SUI: Spatial User Interaction](https://dl.acm.org/conference/sui)
+* [UIST: User Interface Software and Technology](https://dl.acm.org/conference/uist)
+* [UbiComp: Ubiquitous Computing](https://dl.acm.org/conference/ubicomp)
+* [VRST: Virtual Reality Software and Technology](https://dl.acm.org/conference/vrst)
+* [MobileHCI: Human Computer Interaction with Mobile Devices and Services](https://dl.acm.org/conference/mobilehci)
 
 ## Publications
 
-If your research gets accepted into a conference, chances are it will be published in a journal or in proceedings. Once you get the the reference information for your paper, contact Walid to put it on the website.
+If your research gets accepted into a conference, chances are it will be published in a journal or in proceedings. Once you get the the reference information for your paper, contact Walid to put it on the HCI website.
