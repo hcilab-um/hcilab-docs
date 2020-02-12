@@ -21,4 +21,4 @@
     - [Scholarships & Awards](funding_awards/scholarships)
 - **Resources**
     - [Contact Information](resources/contactinfo)
-    - [Lab Presentations](resources/presentations)
+    - [Lab Presentations](resources/pastpresentations)
