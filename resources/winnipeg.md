@@ -68,19 +68,30 @@ Winnpeg has A TON of restaurants! Here are some of our favourites:
 * BMC Market - 722 Osborne St #722
 
 ### Chinese Cuisine
-* Sun Fortune
-* North Garden
+* Sun Fortune - 2077 Pembina Hwy #15
+* North Garden - 33 University Crescent
 
 ### Indian Cuisine
-* Copper Chimney
-* Sizzling Dhaba
+* Copper Chimney - 1070 St Mary's Rd
+* Sizzling Dhaba - 628 St Anne's Rd
 
 ## Seasonal Events [To Be Updated]
 
 ### Spring
 
+* Winnipeg Music Festival - [https://www.winnipegmusicfestival.org](https://www.winnipegmusicfestival.org)
+
 ### Summer
+
+* International Jazz Festival - [https://www.jazzwinnipeg.com/](https://www.jazzwinnipeg.com/)
+* Fringe Festival - [https://www.winnipegfringe.com/]
 
 ### Autumn
 
+* Le Burger Week - [https://leburgerweek.com/](https://leburgerweek.com/)
+* Nuit Blanche - [https://nuitblanchewinnipeg.ca/](https://nuitblanchewinnipeg.ca/)
+
 ### Winter
+
+* Festival du Voyageur - [Heho.ca](heho.ca)
+* River Trail Skating - [https://www.theforks.com/events/river-trail](https://www.theforks.com/events/river-trail)
