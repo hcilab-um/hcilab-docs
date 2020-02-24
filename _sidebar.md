@@ -8,6 +8,7 @@
     - [Lab Calendar](important_info/labcalendar)
     - [Lab Hardware](important_info/hardware)
     - [Lab Information](important_info/useful)
+    - [Winnipeg Guide](resources/winnipeg)
 - **Research**
     - [Getting Started](research/startresearch)
     - [Thesis Program](research/thesis)
